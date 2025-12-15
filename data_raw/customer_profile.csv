@@ -1,0 +1,41 @@
+customer_id,house_type,region
+KH100 ,Chung cu,ha noi
+KH101 ,Biệt thự ,ha noi
+ KH102,chung cư ,Hà Nội
+KH103 ,Tập thể,TP.HCM
+ KH104,Tập thể,Bac Ninh
+ KH105,Biệt thự ,bac  ninh
+KH106,Chung cu,Đà Nẵng
+KH107,tap the ,Bac Ninh
+ KH108,tap the ,Bac Ninh
+KH109 ,Chung cu,Ha Noi
+kh110,biet thu,ha noi
+KH111 ,tap the ,ha noi
+ KH112,tap the ,Bac Ninh
+KH113,Tập thể,bac  ninh
+KH114 ,Tập thể,bac  ninh
+kh115,Chung cu,Đà Nẵng
+ KH116,Tập thể,Đà Nẵng
+ KH117,biet thu,Da Nang
+KH118,Chung cu,Ha Noi
+kh119,Biệt thự ,Da Nang
+KH120,Biệt thự ,Đà Nẵng
+KH121,tap the ,Da Nang
+ KH122,tap the ,Da Nang
+KH123,Nhà phố ,TP.HCM
+kh124,biet thu,Hà Nội
+KH125,biet thu,Hà Nội
+ KH126,NHA pho,Ha Noi
+ KH127,Chung cu,Bac Ninh
+KH128 ,tap the ,tp hcm
+KH129,Tập thể,Ha Noi
+ KH130,tap the ,Đà Nẵng
+ KH131,chung cư ,Bac Ninh
+KH132,Nhà phố ,Da Nang
+KH133 ,Biệt thự ,ha noi
+ KH134,Biệt thự ,Đà Nẵng
+kh135,Tập thể,Hà Nội
+kh136,biet thu,tp hcm
+KH137,biet thu,Đà Nẵng
+kh138,chung cư ,Hà Nội
+ KH139,biet thu,Hà Nội

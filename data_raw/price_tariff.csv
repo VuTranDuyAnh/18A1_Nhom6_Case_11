@@ -1,0 +1,6 @@
+tariff_level,kwh_min,kwh_max,price_per_kwh
+B1,0, 50,1800
+B2,51,100, 2000 
+B3,101,200kwh,2500
+B4,201,300, 3000 
+B5,301,,3.500đ
